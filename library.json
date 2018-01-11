@@ -12,11 +12,11 @@
         "maintainer": true
     }],
     "dependencies": [{
-            "name": "ESPAsyncWebServer",
+            "name": "ESP Async WebServer",
             "frameworks": "arduino"
         },
         {
-            "name": "ArduinoJSON",
+            "name": "ArduinoJson",
             "frameworks": "arduino"
         },
         {
